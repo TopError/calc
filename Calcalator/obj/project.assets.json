@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Germa\\source\\repos\\Calcalator\\Calcalator\\Calcalator.csproj",
+      "projectUniqueName": "C:\\Users\\Germa\\Desktop\\С#\\3 курс\\7\\Calcalator\\Calcalator\\Calcalator.csproj",
       "projectName": "Calcalator",
-      "projectPath": "C:\\Users\\Germa\\source\\repos\\Calcalator\\Calcalator\\Calcalator.csproj",
+      "projectPath": "C:\\Users\\Germa\\Desktop\\С#\\3 курс\\7\\Calcalator\\Calcalator\\Calcalator.csproj",
       "packagesPath": "C:\\Users\\Germa\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Germa\\source\\repos\\Calcalator\\Calcalator\\obj\\",
+      "outputPath": "C:\\Users\\Germa\\Desktop\\С#\\3 курс\\7\\Calcalator\\Calcalator\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Germa\\AppData\\Roaming\\NuGet\\NuGet.Config",
